@@ -1,0 +1,8 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    HIJET_FLI_VOL: 2.64201
+  response: 7C803612914
+- expected_values:
+    HIJET_FLI_VOL: 8.05812
+  response: 7C80361293D

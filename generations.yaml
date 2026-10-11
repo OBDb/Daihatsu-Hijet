@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Daihatsu_Hijet"
+
+generations:
+  - name: "Tenth Generation (S500)"
+    start_year: 2014
+    end_year: null
+    description: "A kei truck with the 0.66 L KF three-cylinder engine."
